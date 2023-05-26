@@ -10,7 +10,7 @@ class App extends Component {
           &nbsp;<i className="fas fa-calculator"></i>
         </h1>
         <CalculatorContainer/>
-        <p>You can also use your keyboard. Delete with key 'D', Evaluate with Enter Key.</p>
+        <p>You can also use your keyboard. Delete with key 'D', Evaluate with Numerical Enter Key.</p>
       </div>
     );
   }

@@ -23,11 +23,11 @@ export let calculatorKeysArray = [{
     id: 'squareRoot',
     buttonColor: 'black'
 }, {
-    btnCharacter: 'SQR',
+    btnCharacter: 'x²',
     id: 'square',
     buttonColor: 'black'
 }, {
-    btnCharacter: '^',
+    btnCharacter: 'xⁿ',
     id: 'raiseToPower',
     buttonColor: 'black'
 }, {
@@ -167,11 +167,11 @@ export let calculatorKeysArrayInverse = [{
     id: 'squareRoot',
     buttonColor: 'black'
 }, {
-    btnCharacter: 'SQR',
+    btnCharacter: 'x²',
     id: 'square',
     buttonColor: 'black'
 }, {
-    btnCharacter: '^',
+    btnCharacter: 'xⁿ',
     id: 'raiseToPower',
     buttonColor: 'black'
 }, {

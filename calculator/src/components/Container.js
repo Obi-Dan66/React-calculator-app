@@ -201,13 +201,13 @@ class CalculatorContainer extends Component {
                     });
                     break;
 
-                case 'SQR':
+                case 'x²':
                     this.setState({
                         displayedCharacters: Math.pow(displayedCharacters, 2)
                     });
                     break;
 
-                case '^':
+                case 'xⁿ':
                     this.setState({
                         displayedCharacters: displayedCharacters + '**'
                     });
